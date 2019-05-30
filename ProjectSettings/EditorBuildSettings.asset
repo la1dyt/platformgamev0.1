@@ -8,4 +8,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/menu.unity
     guid: bcb6cf84e629e9044b78f54906c31aa3
+  - enabled: 1
+    path: Assets/Scenes/avtor.unity
+    guid: dfce80a04da85334eaddfcf351e6ffd1
   m_configObjects: {}

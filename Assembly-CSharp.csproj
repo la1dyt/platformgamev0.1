@@ -63,6 +63,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\scrips\ads\testads.cs" />
+    <Compile Include="Assets\scrips\menu\quit.cs" />
     <None Include="Assets\UnityAds\link.xml" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>E:/unity/project/plotform game v0.1/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
