@@ -63,6 +63,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\scrips\ads\testads.cs" />
+    <Compile Include="Assets\scrips\avtor\inmenu.cs" />
+    <Compile Include="Assets\scrips\menu\buttonclic.cs" />
     <Compile Include="Assets\scrips\menu\quit.cs" />
     <None Include="Assets\UnityAds\link.xml" />
     <Reference Include="Unity.Timeline.Editor">
